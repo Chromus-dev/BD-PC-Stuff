@@ -131,20 +131,7 @@ div[class="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1G
 }
 .wordmark-2iDDfm > svg{
   width: 0px;
-}
-
-/* Spotify Looking Spotify Modal */
-.powercord-spotify img{border-radius:0!important}
-.powercord-spotify .spotify-seek-bar{height:4px!important;border-radius:2px!important;margin-left:15px!important;margin-right:15px!important;background:#404040!important}
-.powercord-spotify .spotify-seek-bar-progress{background:#b3b3b3!important;border-radius:42px!important}
-.powercord-spotify .container-3baos1{background-color:transparent!important}
-.powercord-spotify .container-3baos1 .nameTag-3uD-yy .title-eS5yk3{color:#fff!important}
-.powercord-spotify .container-3baos1 .nameTag-3uD-yy .subtext-3CDbHg{color:#b3b3b3!important;overflow-x:hidden!important;text-indent:-15px!important}
-.powercord-spotify .spotify-buttons button{background:0 0!important;}
-.powercord-spotify .spotify-seek-elements,.powercord-spotify.hover .spotify-seek-elements{color:#b3b3b3!important;font-size:70%!important;margin-top:3px!important;margin-left:10px!important;margin-right:10px!important}
-.powercord-spotify .horizontal-1ae9ci *{width:0!important;overflow:hidden!important;opacity:0!important;display:none!important}
-.powercord-spotify:hover .horizontal-1ae9ci *{width:32px!important;overflow:visible!important;opacity:1!important;display:block!important}
- 
+} 
 
 /* Better roles */
 .role-2irmRk {
