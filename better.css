@@ -297,27 +297,6 @@ font-size: 14px;content: "NEW MESSAGES";margin-bottom: -2px}
     content: 'Packet Loss: ';
 }
 
-/* Fly in Voice Chat buttons */
-.panels-j1Uci_ .container-3baos1 button[aria-checked="false"], .panels-j1Uci_ .container-3baos1 button:not([role="switch"]) {
-  transition: 0.3s ease-in-out;
-  width: 0px !important;
-  overflow: hidden !important;
-  opacity: 0 !important;
-}
-.panels-j1Uci_ .container-3baos1:hover button.button-14-BFJ {
-  transition: 0.2s ease-in-out;
-  width: 32px !important;
-  overflow: visible !important;
-  opacity: 1 !important;
-}
-
-.avatar-1BDn8e.clickable-1bVtEA{
-padding: 10px;
-border-radius: 20px;
-height: 35px !important;
-width: 35px !important;
-}
-
 /* Cool Member List */
 :root {
   --hover-animation-speed: 0.35s;
