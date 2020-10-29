@@ -562,7 +562,7 @@ code,
 	border-radius: 15px 15px 15px 15px;
 }
 .modeSelected-1zApJ_ .children-Bmpf2Q {
-	background-color: #4b516a;
+	background-color: var(--burple);
 	height: 30px;
 	padding-left: 6px;
 	padding-right: 10px;
