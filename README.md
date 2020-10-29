@@ -10,3 +10,4 @@ Add the following to the top of your *Quick CSS* page. This will include automat
 ```css
 @import url("https://raw.githack.com/Chromus-dev/Minimalcord/master/Addons/customColorsAddon.css");
 ```
+
