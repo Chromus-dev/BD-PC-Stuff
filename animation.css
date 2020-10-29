@@ -89,6 +89,8 @@ div[id="message-actions"]:hover {
 	animation: rotate 4s infinite !important;
 	-webkit-transition-delay: now !important;
 	-webkit-animation-timing-function: linear !important;
+	transition-delay: now !important;
+	animation-timing-function: linear !important
 	background-color: transparent !important;
 }
 @keyframes rotate {
