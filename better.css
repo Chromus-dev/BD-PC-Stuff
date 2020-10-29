@@ -748,3 +748,9 @@ code,
 [class*="GuildSubscriberlvl7"]{filter: brightness(10)!important}
 [class*="GuildSubscriberlvl8"]{filter: brightness(10)!important}
 [class*="GuildSubscriberlvl9"]{filter: brightness(10)!important}
+
+/* Better Connections */
+.connectedAccount-36nQx7 {
+  background-color: var(--background-tertiary);
+  border: 0 !important;
+}
