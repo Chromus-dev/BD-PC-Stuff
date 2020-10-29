@@ -624,3 +624,95 @@ code,
 .powercord-snippet-apply div {
 	border-radius: 24px !important;
 }
+
+/* "Modern" Spotify Modal */
+.powercord-spotify {
+  background: var(--background-floating) !important;
+  border-radius: 10px;
+  margin: 5px;
+  overflow: hidden !important;
+  width: 230px !important;
+  height: 60px !important;
+}
+.powercord-spotify:hover {
+  height: 230px !important;
+}
+.powercord-spotify .spotify-seek {
+  position: relative !important;
+  height: 20px !important;
+  z-index: 99;
+}
+.powercord-spotify:hover .spotify-seek {
+  position: relative !important;
+  background: background: rgb(24,25,28);
+background: linear-gradient(0deg, rgba(24,25,28,1) 0%, rgba(24,25,28,1) 50%, rgba(24,25,28,0) 97%); !important;
+  padding-top: 80px;
+  height: 20px !important;
+  width: 230px !important;
+  left: 0px !important;
+  bottom: -71px !important;
+}
+.powercord-spotify .spotify-seek-bar {
+  height: 10px !important;
+  background: var(--background-floating);
+}
+.powercord-spotify:hover .spotify-seek-bar {
+  height: 20px !important;
+}
+.powercord-spotify{
+  transition: 0.4s ease-in-out !important;
+}
+.powercord-spotify * {
+  transition: 0.4s ease-in-out !important;
+}
+.powercord-spotify .avatarWrapper-2yR4wp img {
+  border-radius: 5px !important;
+}
+.powercord-spotify:hover .avatarWrapper-2yR4wp img {
+  border-radius: 0px !important;
+  height: 230px !important;
+  width: 230px !important;
+  margin-left: -8px !important;
+  margin-top: 181px !important;
+}
+.powercord-spotify .container-3baos1 {
+  padding: 0px 8px !important;
+  margin-bottom: 0px !important;
+  margin-top: -3px !important;
+}
+.powercord-spotify:hover .nameTag-3uD-yy {
+  margin-left: -230px !important;
+  margin-right: 0px !important;
+  margin-top: 230px !important;
+  z-index: 100;
+  text-align: center !important;
+}
+.powercord-spotify .spotify-buttons {
+  left: 0px !important;
+  position: absolute !important;
+  z-index: 100000;
+  justify-content: center !important;
+  width: 0px;
+  opacity: 0;
+}
+.powercord-spotify:hover .spotify-buttons {
+  margin-top: 340px;
+  opacity: 1;
+  width: 150px;
+  left: 45px !important;
+  bottom: 100px;
+  z-index: 100;
+}
+.spotify-extra-controls {
+  z-index: 10000;
+  position: relative;
+}
+.powercord-spotify:hover .spotify-extra-controls {
+  height: 16px !important;
+  transform: translateY(150px);
+}
+.powercord-spotify .spotify-seek-bar-cursor {
+  height: 20px !important;
+  border-radius: 10px !important;
+  border: none !important;
+}
