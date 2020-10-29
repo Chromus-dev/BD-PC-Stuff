@@ -489,14 +489,14 @@ div[class*="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1
 .topSectionPlaying-1J5E4n {
 	z-index: 1 !important;
 	background-image: url(https://cdn.naila.bot/Discord/playing-background.svg),
-		linear-gradient(to top right, #3C3E43, #7F92D7) !important;
+		linear-gradient(to top, #2F3136, #7F92D7) !important;
 }
 
 .headerSpotify-zpWxgT,
 .topSectionSpotify-1lI0-P {
 	z-index: 1 !important;
 	background-image: url(https://cdn.naila.bot/Discord/playing-background.svg),
-		linear-gradient(to top, #3C3E43, #1db954) !important;
+		linear-gradient(to top, #2F3136, #1db954) !important;
 }
 
 /* Custom Code Font */
