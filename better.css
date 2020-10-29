@@ -519,10 +519,10 @@ code,
 
 /** Accent colored discord join/explore buttons**/
 .circleIconButton-jET_ig svg path {
-	fill: var(--burple);
+	fill: rgb(114, 137, 218);
 }
 .circleIconButton-jET_ig.selected-ugP_am {
-	background-color: var(--burple);
+	background-color: rgb(114, 137, 218);
 }
 .circleIconButton-jET_ig.selected-ugP_am svg path {
 	fill: white;
@@ -550,7 +550,7 @@ code,
 
 /** Better channel unread marker **/
 .unread-3zKkbm {
-	background-color: #5f6786;
+	background-color: rgb(114, 137, 218);
 	width: 4px;
 	height: 28px;
 	margin-top: -15px;
@@ -562,7 +562,7 @@ code,
 	border-radius: 15px 15px 15px 15px;
 }
 .modeSelected-1zApJ_ .children-Bmpf2Q {
-	background-color: var(--burple);
+	background-color: rgb(114, 137, 218);
 	height: 30px;
 	padding-left: 6px;
 	padding-right: 10px;
@@ -572,12 +572,12 @@ code,
 
 /* Better Tooltips */
 .tooltip-2QfLtc {
-	background-color: rgba(var(--burple), 0.5) !important;
+	background-color: rgba(114, 137, 218, 0.5) !important;
 	backdrop-filter: blur(1.5px);
 	text-shadow: #000 1px 0 5px;
 }
 .tooltipPointer-3ZfirK {
-	border-top-color: rgba(var(--burple), 0.5) !important;
+	border-top-color: rgba(114, 137, 218, 0.5) !important;
 }
 .tooltipContent-bqVLWK > .colorMuted-HdFt4q {
 	color: #f04747;
