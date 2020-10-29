@@ -19,6 +19,6 @@
 
 /* Show Version Of Theme You Are Using */
 div[aria-label="USER_SETTINGS"] .info-1VyQPT:last-child > div:last-child::after {
-	content: "Minimalcord v1.0";
+	content: "Minimalcord v1.0 BETA";
 	display: block;
 }
