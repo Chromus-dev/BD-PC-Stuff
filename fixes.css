@@ -31,7 +31,6 @@ div > .total-members.counts {
 	display: none;
 }
 @media screen and (min-width: 1100px) {
-	/* <-- Modify minimum width as you wish */
 	.membersWrap-2h-GB4.hiddenMembers-2dcs_q {
 		display: flex;
 	}
