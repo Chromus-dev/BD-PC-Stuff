@@ -7,7 +7,7 @@ Pics coming soon
 
 There are 2 ways to install **Minimalcord**.
 #### Import (Recomended)
-This way includes automatic updates and is easier to install. Add the following to the top of your *Quick CSS* page. This also includes automatic updates.
+This way includes automatic updates and is easier to install. Add the following to the top of your *Quick CSS* page.
 ```css
 @import url("https://raw.githack.com/Chromus-dev/Minimalcord/master/minimalcord.css");
 ```
