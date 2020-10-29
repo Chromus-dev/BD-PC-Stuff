@@ -128,3 +128,12 @@ div[id="message-actions"]:hover {
 .userPopout-3XzG_A .activityUserPopout-2yItg2:hover .allactivities-right {
 	margin-left: 8px;
 }
+
+/* Animate Profile Badges On Hover */
+.header-QKLPzZ .headerInfo-30uryT .flex-1xMQg5 div {
+	transition: 0.2s;
+}
+.header-QKLPzZ .headerInfo-30uryT .flex-1xMQg5 div:hover {
+	transition: 0.2s;
+	transform: translateY(-0.75px);
+}

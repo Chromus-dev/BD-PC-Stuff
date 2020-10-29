@@ -117,3 +117,11 @@ div[id^=pinned-messages-] .contents-2mQqc9 img {
 svg[aria-label="Discord Partner"] {
 	color: rgba(67, 181, 129) !important;
 }
+
+/* QuickCSS Fix */
+.powercord-quickcss {
+	--editor-height: 40vw !important;
+}
+.CodeMirror-code {
+	font-size: 1.1rem;
+}
