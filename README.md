@@ -26,7 +26,7 @@ Add the following to the top of your *Quick CSS* page. This will include automat
 @import url("https://raw.githack.com/Chromus-dev/Minimalcord/master/Addons/customColorsAddon.css");
 ```
 
-#### display: none;
+#### Display None
 This addon removes things that I consider "useless".
 
 Add the following to the top of your *Quick CSS* page. This will include automatic updates.
