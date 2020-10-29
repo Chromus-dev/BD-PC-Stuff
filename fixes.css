@@ -125,3 +125,8 @@ svg[aria-label="Discord Partner"] {
 .CodeMirror-code {
 	font-size: 1.1rem;
 }
+
+/* Attempt to fix codeblocks */
+.powercord-codeblock-table tr {
+	word-break: inherit !important;
+}
