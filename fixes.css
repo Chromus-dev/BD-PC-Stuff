@@ -111,6 +111,15 @@ div[id^=pinned-messages-] .contents-2mQqc9 img {
 	color: rgba(232, 69, 69) !important;
 	background: rgba(232, 69, 69, 0.1) !important;
 }
+.mentioned-xhSam7:before {
+	background: rgba(232, 69, 69, 1);
+}
+.mentioned-xhSam7 {
+	background: rgba(232, 69, 69, 0.1);
+}
+.mentioned-xhSam7:hover {
+	background: rgba(232, 69, 69, 0.2) !important;
+}
 
 /* Uniform Server Partner Badges */
 svg[aria-label="Discord Partner"] {
