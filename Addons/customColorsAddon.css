@@ -29,6 +29,21 @@
 
 /* Main Colors */
 
+/* Profile Modal */
+.headerPlaying-j0WQBV,
+.topSectionPlaying-1J5E4n {
+	z-index: 1 !important;
+	background-image: url(https://cdn.naila.bot/Discord/playing-background.svg),
+		linear-gradient(to top right, #24292f, #24292f) !important;
+}
+
+.headerSpotify-zpWxgT,
+.topSectionSpotify-1lI0-P {
+	z-index: 1 !important;
+	background-image: url(https://cdn.naila.bot/Discord/playing-background.svg),
+		linear-gradient(to top, #24292f, #1db954) !important;
+}
+
 /* Mention / Autofill background */
 .autocomplete-1vrmpx {
 	background-color: var(--background-tertiary) !important;
