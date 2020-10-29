@@ -19,9 +19,12 @@ git clone https://github.com/Chromus-dev/Minimalcord.git
 
 ## Addons
 #### Custom Colors  
+This addon adds some nice new colors to [discord](https://discord.com/ "discord").
 
 Add the following to the top of your *Quick CSS* page. This will include automatic updates.
 ```css
 @import url("https://raw.githack.com/Chromus-dev/Minimalcord/master/Addons/customColorsAddon.css");
 ```
 
+#### display: none;
+This addon removes things that I consider "useless".
