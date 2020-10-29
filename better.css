@@ -519,10 +519,10 @@ code,
 
 /** Accent colored discord join/explore buttons**/
 .circleIconButton-jET_ig svg path {
-	fill: #4b516a;
+	fill: var(--burple);
 }
 .circleIconButton-jET_ig.selected-ugP_am {
-	background-color: #4b516a;
+	background-color: var(--burple);
 }
 .circleIconButton-jET_ig.selected-ugP_am svg path {
 	fill: white;
