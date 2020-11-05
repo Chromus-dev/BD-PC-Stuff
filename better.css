@@ -485,7 +485,7 @@ div[class*="flex-1xMQg5 flex-1O1GKY horizontal-1ae9ci horizontal-2EEEnY flex-1O1
 }
 
 /*Profile Modal*/
-.headerTop-3C2Zn0, .topSectionNormal-2-vo2m {
+.headerTop-3C2Zn0, .topSectionNormal-2-vo2m, .headerSpotify-zpWxgT, .headerPlaying-j0WQBV {
 	z-index: 1;
 	background-image: url(https://cdn.naila.bot/Discord/playing-background.svg);
 }
@@ -599,11 +599,6 @@ code,
 /* Round Connected Accounts */
 .connectedAccount-36nQx7 {
 	border-radius: 100px;
-}
-
-/* Round Mentions */
-.mention {
-	border-radius: 10px;
 }
 
 /* Round quick CSS */
