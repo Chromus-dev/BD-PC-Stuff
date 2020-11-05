@@ -26,13 +26,3 @@
 @import url("https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css");
 /* Blur Details */
 @import url("https://rawcdn.githack.com/CorellanStoma/Powercord/d0c8c835f9ae249b307bfdc0b0d94cb62b098dec/Addons/blur-details.css");
-
-:root {
-	--default-gradient: 315deg, #495da4 0%, #7289da 74% !important;
-	--special-gradient: 315deg, #8980f0 0%, #d577f0 74% !important;
-	--red-gradient: 315deg, #aa3738 0%, #f04747 74% !important;
-	--yellow-gradient: 315deg, #c2831b 0%, #ffb740 74% !important;
-	--green-gradient: 315deg, #264d41 0%, #43b581 74% !important;
-	--grey-gradient: 315deg, #373a45 0%, #747f8d 74% !important;
-	--white-gradient: 315deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0) 74% !important;
-}

@@ -62,15 +62,14 @@ div > .total-members.counts {
 .passthroughSelected-1Eq0Kl {
 	background-color: #ffba00 !important;
 }
+.passthrough-1c2ewQ:not(.passthroughSelected-1Eq0Kl) img {
+	content: url("https://cdn.discordapp.com/attachments/729456400077422623/748313547800313906/yellow.svg");
+}
 
 /* Some Pinned Massages Fix */
 .searchResultMessage-1fxgXh.hit-1fVM9e > div > .contents-2mQqc9 img,
 div[id^="pinned-messages-"] .contents-2mQqc9 img {
 	top: 15px;
-}
-
-.passthrough-1c2ewQ:not(.passthroughSelected-1Eq0Kl) img {
-	content: url("https://cdn.discordapp.com/attachments/729456400077422623/748313547800313906/yellow.svg");
 }
 
 /* Verified Devolper Badge Fix */
