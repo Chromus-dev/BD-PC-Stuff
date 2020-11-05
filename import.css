@@ -17,13 +17,13 @@
 @import url("https://snapperito.github.io/Settings-Icons/source.css");
 /* Codeblock Icons by Snapperito#0001 */
 @import url('https://snapperito.github.io/codeblock-icons/dist-default.css');
+/* Remove White Theme stuff by DevilBro#4401 */
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/FullThemeDark/FullThemeDark.css);
 
 /* Other */
 
 /* Discord Font */
 @import url("https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css");
-/* Old Status Indecators */
-@import url("https://raw.githack.com/CorellanStoma/Powercord/assets/Addons/old-status-indicator.css");
 /* Blur Details */
 @import url("https://rawcdn.githack.com/CorellanStoma/Powercord/d0c8c835f9ae249b307bfdc0b0d94cb62b098dec/Addons/blur-details.css");
 
