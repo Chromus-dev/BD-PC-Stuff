@@ -1,15 +1,15 @@
-/* Fly in Voice Chat buttons */
-.container-3baos1 .noWrap-3jynv6 {
-	width: 0px;
-	opacity: 0;
-	pointer-events: none;
-	transition: all .3s ease-in-out;
+/* Fly in Voice Chat buttons fix */
+.panels-j1Uci_ .container-3baos1 button[aria-checked="false"], .panels-j1Uci_ .container-3baos1 button:not([role="switch"]) {
+    transition: 0.2s ease-in-out;
+    width: 0px !important;
+    overflow: hidden !important;
+    opacity: 0 !important;
 }
-
-.container-3baos1:hover .noWrap-3jynv6 {
-	width: 100px;
-	opacity: 1;
-	pointer-events: all;
+.panels-j1Uci_ .container-3baos1:hover button.button-14-BFJ {
+    transition: 0.2s ease-in-out;
+    width: 32px !important;
+    overflow: visible !important;
+    opacity: 1 !important;
 }
 
 /* Mute Bell Icon Swing */
