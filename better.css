@@ -756,3 +756,16 @@ code,
   background-color: var(--background-tertiary);
   border: 0 !important;
 }
+
+/* Cool Embeds */
+.embedFull-2tM8-- {
+	background: #2F3136;
+	border-left: 0px;
+	border-bottom: 10px solid;
+	border-radius: 10px;
+	box-shadow: var(--elevationHigh);
+  }
+  .embedFull-2tM8-- .grid-1nZz7S {
+	padding-top: 3px;
+	padding-bottom: 10px;
+  }

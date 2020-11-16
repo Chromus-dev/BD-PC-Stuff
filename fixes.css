@@ -137,3 +137,9 @@ svg[aria-label="Discord Partner"] {
 .powercord-codeblock-table tr {
 	word-break: inherit !important;
 }
+
+/* Fix Some Channel Bug */
+.peopleColumn-29fq28 .peopleList-3c4jOR,
+.peopleColumn-29fq28 div[role="list"] {
+	height: 100%;
+}
