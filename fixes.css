@@ -143,3 +143,29 @@ svg[aria-label="Discord Partner"] {
 .peopleColumn-29fq28 div[role="list"] {
 	height: 100%;
 }
+
+/* Fix Loading Emojis */
+.emojiItem-14v6tW .emojiItemImageLoading-1yEIxx {
+	background-image: none;
+	background-color: var(--background-primary) !important;
+	border-radius: 30%;
+}
+
+/*fix emoji suggestions not being scrollable*/
+.autocompleteInner-zh20B_ {
+	overflow-y: auto;
+	max-height: 75vh;
+}
+
+/* Fix fade thingy for good looking titlebar snippet */
+.children-19S4PO:after {
+	background: transparent !important;
+}
+.searchResultMessage-1fxgXh.hit-1fVM9e > div > .contents-2mQqc9 img,
+div[id^=pinned-messages-] .contents-2mQqc9 img {
+	top: 15px;
+}
+
+.note-3kmerW textarea:focus {
+	background-color: transparent;
+} /* fix edit note profile idk*/
