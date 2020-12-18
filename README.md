@@ -20,14 +20,6 @@ git clone https://github.com/Chromus-dev/Minimalcord.git
 ## Addons
 These are things you can add to **Minimalcord** to make it better. You can even use these on their own if you want!
 
-#### Custom Colors  
-This addon adds some nice new colors to discord.
-
-Add the following to the top of your *Quick CSS* page. This will include automatic updates.
-```css
-@import url("https://raw.githack.com/Chromus-dev/Minimalcord/master/Addons/customColorsAddon.css");
-```
-
 #### Display None
 This addon removes things that I consider "useless".
 
